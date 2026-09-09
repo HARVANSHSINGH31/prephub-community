@@ -40,3 +40,5 @@ For each round, describe:
 ## Where to go for doubts
 
 Open a thread in Discussions → Ask an Alum and tag me, or ask directly in this guide's linked thread above.
+
+interview_date: <2026-03, when the interview actually happened>
