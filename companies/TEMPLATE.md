@@ -6,7 +6,7 @@ author_batch: <e.g. 2023, CSE>
 author_current_title: <e.g. SDE-2 at Company>
 author_linkedin: <link>
 verified: yes/no
-interview_date: <2026-03>
+interview_date: <YYYY-MM>
 last_updated: <YYYY-MM-DD>
 still_accurate_as_of: <YYYY-MM-DD>
 ask_me_thread: <link to this guide's Discussions thread, filled in after posting>
