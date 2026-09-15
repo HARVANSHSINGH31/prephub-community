@@ -1,6 +1,7 @@
 ---
 company: <Company Name>
 role: <e.g. SDE Intern / Data Analyst / New Grad SDE-1>
+hiring_route: <e.g. On-campus drive / Off-campus — referral / Off-campus — hackathon program>
 author: <Your Name>
 author_batch: <e.g. 2023, CSE>
 author_current_title: <e.g. SDE-2 at Company>
