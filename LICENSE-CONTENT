@@ -1,0 +1,23 @@
+PrepHub Community — Content License
+
+All written content in this repository — including everything under
+companies/, roadmaps/, and resources/ — is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License
+(CC BY-SA 4.0).
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material
+  for any purpose, including commercially.
+
+Under the following terms:
+  - Attribution: You must give appropriate credit to the original
+    author(s) listed in VERIFIED_CONTRIBUTORS.md, provide a link to
+    this license, and indicate if changes were made.
+  - ShareAlike: If you remix or build upon the material, you must
+    distribute your contributions under this same license.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Source code, scripts, and tooling in this repository are licensed
+separately under the MIT License. See LICENSE.
