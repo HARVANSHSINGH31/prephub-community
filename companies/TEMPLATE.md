@@ -10,6 +10,7 @@ verified: yes/no
 interview_date: <YYYY-MM>
 last_updated: <YYYY-MM-DD>
 still_accurate_as_of: <YYYY-MM-DD>
+tags: <e.g. [dsa-heavy, core-cs-heavy, paper-coding, service-based]>
 ask_me_thread: <link to this guide's Discussions thread, filled in after posting>
 ---
 
