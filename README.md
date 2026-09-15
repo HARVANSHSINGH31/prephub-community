@@ -42,3 +42,15 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md). Short version: copy `companies/TEMPLAT
 ## Status
 
 Early build — first campus rollout in progress. See `roadmaps/` and `companies/` for the current (example) structure being proposed for faculty and placement-cell review.
+
+## License
+
+This project is dual-licensed, because it holds two different kinds of work.
+
+| What | License | Why |
+|---|---|---|
+| Code, scripts, CI, tooling | [MIT](LICENSE) | Permissive — reuse it anywhere |
+| Guides, roadmaps, resources | [CC BY-SA 4.0](LICENSE-CONTENT) | Attribution stays with the alum who wrote it, and derivatives stay open |
+
+By contributing, you agree your contribution is released under the
+corresponding license above.
